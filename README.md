@@ -1,5 +1,6 @@
 
----
+-![subfury](https://github.com/user-attachments/assets/e1328a64-077f-47df-bf2d-da588bbe9a79)
+--
 
 # **SubFury: AI-Powered Subdomain Prediction & Enumeration System** 
 
