@@ -56,6 +56,10 @@ We fine-tuned **DistilGPT-2** on the **n0kovo_subdomains** dataset. Here’s a s
 2. **DNS Validation**: After prediction, subdomains are validated through real-time DNS resolution.
 3. **Reinforcement Learning**: The model refines its predictions by learning from validation feedback.
 
+**W&B report**
+![image](https://github.com/user-attachments/assets/fc58dcb7-8c6d-45d4-9060-0552f5be376c)
+
+
 ---
 
 ## 🌐 **DNS Validation (Sample)**
